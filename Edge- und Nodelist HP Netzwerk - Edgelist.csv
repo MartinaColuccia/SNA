@@ -1,0 +1,19 @@
+from,to,weight
+HP,Hermine,3
+HP,Ron,3
+HP,Hagrid,2
+HP,Draco,2
+HP,Voldemort,1
+HP,Dumbledore,2
+HP,Snape,2
+HP,Sirius,3
+Hermine,Ron,3
+Hermine ,Snape,1
+Hermine,Dumbledore,1
+Ron,Hagrid,2
+Hermine,Hagrid,2
+Ron ,Draco,1
+Ron,Dumbledore,1
+Snape,Dumbledore,3
+Snape ,Ron,1
+Voldemort,Dumbledore,2
