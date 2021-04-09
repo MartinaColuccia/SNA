@@ -1,0 +1,8 @@
+from,to,weight,relationship,time
+Harvey,Martina,1,,2019
+Harvey,Mike,2,,2020
+Harvey,Donna,2,,2020
+Donna,Mike,2,,2016
+Donna,Martina,1,,2016
+Mike,Martina,1,,2016
+Jessica,Martina,1,,1999
